@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>sc-date-time</artifactId>
-    <version>1.1.6</version>
+    <version>1.1.7-SNAPSHOT</version>
     <name>scDateTime</name>
     <description>A Date-Time picker based on Googles Material Design Spec</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>https://github.com/webjars/sc-date-time</url>
         <connection>scm:git:https://github.com/webjars/sc-date-time.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/sc-date-time.git</developerConnection>
-        <tag>sc-date-time-1.1.6</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
